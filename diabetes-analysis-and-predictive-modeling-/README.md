@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This project aims to predict when a person has diabeties using lifestyle health indicators. Predictions made using a Random Forestand XGBoost algorythm trained on the data.
+This project aims to predict when a person has diabeties using lifestyle health indicators. Predictions made using a Random Forest and XGBoost algorythm trained on the data.
 
 ## Project Organization
 
